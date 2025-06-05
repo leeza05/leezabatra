@@ -25,7 +25,7 @@
 
 #### 📫 Connect with Me
 - 📧 leezabatra123@gmail.com
-- 🐱 GitHub: [@leezabatra](https://github.com/leezabatra)
+- 🐱 GitHub: https://github.com/leeza05
 
 ---
 
